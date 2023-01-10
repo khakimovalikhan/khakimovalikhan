@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/KhakimovAlikhan/KhakimovAlikhan/blob/main/Hello,%20my%20name%20is%20Alikhan.jpg)](https://timerlander.tech)
 <h1 align="center">Hi 👋, I'm Khakimov Alikhan</h1>
 <h3 align="center">I am a frontend developer from Kazakhstan. I'm 16. I am studying in college to be a security systems engineer in the field of IT.</h3>
 
