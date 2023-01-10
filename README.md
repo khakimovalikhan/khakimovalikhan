@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, React.JS**
 
-- 💬 Ask me about **React, Vue**
+- 💬 Ask me about **React, HTML | CSS**
 
 - 📫 How to reach me **khakimov.alikhan@gmail.com**
 
